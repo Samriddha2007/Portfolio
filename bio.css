@@ -1,0 +1,16 @@
+h1{
+    color: whitesmoke;
+}
+.upper{
+    background-color: red;
+    display: flex;
+    justify-content: space-between;
+}
+.footer{
+    display: flex;
+    justify-content: flex-end;  
+}
+.option{
+    color: violet;
+    justify-content: space-evenly;
+}
